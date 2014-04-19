@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>07AF390D-C824-4435-AFE9-0E790D437F6B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KKLoadingView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FAA1DFA9-4F69-4C4C-9668-9DB58DAD17CF</key>
+		<string>https://github.com/cocoajin/KKLoadingView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KKLoadingViewDemo/KKLoadingView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FAA1DFA9-4F69-4C4C-9668-9DB58DAD17CF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cocoajin/KKLoadingView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FAA1DFA9-4F69-4C4C-9668-9DB58DAD17CF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FAA1DFA9-4F69-4C4C-9668-9DB58DAD17CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KKLoadingView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
