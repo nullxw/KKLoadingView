@@ -6,6 +6,8 @@ loadingView and loadingErrorView
 ### KKLoadingView 使用
 
 ![image](loadingView.png)
+![image](loadingErrorView.png)
+
 
 可用api
 
@@ -53,12 +55,11 @@ loadingView and loadingErrorView
 
 ```
 
+
 ### KKLoadingErrorView 使用
 
-![image](loadingErrorView.png)
-
-
 可用api
+
 
 ```objective-c
 /**
